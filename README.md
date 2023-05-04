@@ -18,7 +18,7 @@ To run this project locally, you need to have MATLAB installed on your system. O
 
 2. Open the project directory in MATLAB.
 
-3. [Create Database](##Database-Creation)
+3. [Create Database](#database-creation)
 4. Run the `training.m` script inside the `Face_Recognition` folder.
 5. Use the `testing.m` function to test the already trained model by passing `net` as an argument inside the testing function.
 
